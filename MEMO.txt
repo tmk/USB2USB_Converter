@@ -1,0 +1,45 @@
+USB to USB keyboard converter
+=============================
+2014/12/21
+
+
+MAX3421E datasheet:
+http://datasheets.maximintegrated.com/en/ds/MAX3421E.pdf
+
+MAX3421E kicad library:
+https://github.com/dominicgs/BeagleDancer/blob/master/hardware/lib/beagledancer.lib
+
+Circuit@HOME USB Host Shield
+http://www.circuitsathome.com/products-page/arduino-shields/usb-host-shield-2-0-for-arduino
+
+3.3V Teensy
+https://www.pjrc.com/teensy/3volt.html
+
+
+Hardware requirement
+--------------------
+Arduino Leonardo
+    http://arduino.cc/en/Main/ArduinoBoardLeonardo 
+
+Circuit@Home USB Host Shield 2.0
+    https://www.circuitsathome.com/products-page/arduino-shields/usb-host-shield-2-0-for-arduino-assembled/
+
+Buying Arduino Leonardo and USB Host Shield 2.0(from Circuit@home) will be the easiest way, you won't need even soldering iron.
+Arduino's Shield will also work well but I think Sparkfun's needs to be modified.
+
+    http://arduino.cc/en/Main/ArduinoUSBHostShield
+    https://www.sparkfun.com/products/9947
+
+Also Pro Micro 3.3V(not Mini) or Teensy with mini host shield will work with some fixes on signal/power routing.
+    https://www.circuitsathome.com/products-page/arduino-shields/usb-host-shield-for-arduino-pro-mini
+    https://www.sparkfun.com/products/12587
+    https://www.pjrc.com/teensy/td_libs_USBHostShield.html
+
+
+USB Host Shield 2.0
+===================
+Host Shield library:
+    https://github.com/felis/USB_Host_Shield_2.0
+
+Host Shield library debug output: USB_HOST_SERIAL
+    https://github.com/felis/USB_Host_Shield_2.0/blob/master/settings.h
