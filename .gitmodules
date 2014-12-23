@@ -1,0 +1,3 @@
+[submodule "keyboard_parts.pretty"]
+	path = keyboard_parts.pretty
+	url = git@github.com:tmk/keyboard_parts.pretty.git
