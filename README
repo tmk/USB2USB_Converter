@@ -3,6 +3,14 @@ USB to USB keyboard converter
 2014/12/21
 
 
+Update
+------
+2015/02 Rev.A
+
+
+
+Resourses
+---------
 MAX3421E datasheet:
 http://datasheets.maximintegrated.com/en/ds/MAX3421E.pdf
 
@@ -14,6 +22,7 @@ http://www.circuitsathome.com/products-page/arduino-shields/usb-host-shield-2-0-
 
 3.3V Teensy
 https://www.pjrc.com/teensy/3volt.html
+
 
 
 Hardware requirement
@@ -34,6 +43,7 @@ Also Pro Micro 3.3V(not Mini) or Teensy with mini host shield will work with som
     https://www.circuitsathome.com/products-page/arduino-shields/usb-host-shield-for-arduino-pro-mini
     https://www.sparkfun.com/products/12587
     https://www.pjrc.com/teensy/td_libs_USBHostShield.html
+
 
 
 USB Host Shield 2.0
