@@ -1,0 +1,16 @@
+TODO
+====
+
+Rev.A
+-----
+- 3.3V LDO regulator MIC5504 footprint is wrong size and should be 5 lands.
+    DONE: 2015/09/28 changed footprint to SOT23-5_HSOL
+- Both QFP footprint should has a clear 1pin mark.
+    DONE: 2015/09/28
+- Add pin markings on USB pads for cable soldering.
+    DONE: 2015/09/28
+
+Rev.B
+-----
+2015/09/28
+- 2K2 resistor to 1K?

@@ -1,4 +1,4 @@
-update=2014年12月21日 16時10分58秒
+update=2015年09月28日 15時31分02秒
 version=1
 last_client=kicad
 [cvpcb]
@@ -29,21 +29,21 @@ ModuleOutlineThickness=0.150000000000
 version=1
 [eeschema]
 version=1
-LibDir=../library
+LibDir=library
 [eeschema/libraries]
-LibName1=keyboard_parts
-LibName2=power
-LibName3=device
-LibName4=transistors
-LibName5=conn
-LibName6=linear
-LibName7=regul
-LibName8=74xx
-LibName9=cmos4000
-LibName10=adc-dac
-LibName11=memory
-LibName12=xilinx
-LibName13=special
+LibName1=usb2usb-rescue
+LibName2=keyboard_parts
+LibName3=power
+LibName4=device
+LibName5=transistors
+LibName6=conn
+LibName7=linear
+LibName8=regul
+LibName9=74xx
+LibName10=cmos4000
+LibName11=adc-dac
+LibName12=memory
+LibName13=xilinx
 LibName14=microcontrollers
 LibName15=dsp
 LibName16=microchip

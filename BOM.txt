@@ -1,0 +1,35 @@
+BOM of USB to USB keyboard converter
+====================================
+2015/03/09
+
+
+Ref     Value		Footprint
+----------------------------------------------------
+C1	1u		C_0603_HandSoldering
+C10	18p		C_0603_HandSoldering
+C11	18p		C_0603_HandSoldering
+C12	1u		C_0603_HandSoldering
+C13	1u		C_0603_HandSoldering
+C2	1u		C_0603_HandSoldering
+C3	0.1u		C_0603_HandSoldering
+C4	18p		C_0603_HandSoldering
+C5	18p		C_0603_HandSoldering
+C6	0.1u		C_0603_HandSoldering
+C7	0.1u		C_0603_HandSoldering
+C8	4.7u		C_1206_HandSoldering
+C9	0.1u		C_0603_HandSoldering
+D1	LED		LED_2012_HSOL
+J1	USB_B		USB_B
+J2	USB_A		USB_A
+R1	22		R_0603_HandSoldering
+R2	22		R_0603_HandSoldering
+R3	1K		R_0603_HandSoldering
+R4	33		R_0603_HandSoldering
+R5	33		R_0603_HandSoldering
+R6	2K2(1K)		R_0603_HandSoldering
+SW1	PUSH		SW_ALPS_SKRP
+U1	ATMEGA32U4	LQFP-44_10x10mm_Pitch0.8mm
+U2	MAX3421E	LQFP-32_5x5mm_Pitch0.5mm
+U3	MIC5504-3.3	SC70-6_Handsoldering
+X1	16MHz		crystal_FA238-TSX3225
+X2	12MHz		crystal_FA238-TSX3225
