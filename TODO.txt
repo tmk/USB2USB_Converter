@@ -12,5 +12,8 @@ Rev.A
 
 Rev.B
 -----
-2015/09/28
-- 2K2 resistor to 1K?
+- X'tal foot print
+- X'tal ground connection
+- Capacitor value for X'tal: 18p -> 10p
+- Resistor value: 2K2->1K
+    ALL DONE: 2016/12/17
