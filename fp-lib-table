@@ -1,3 +1,2 @@
 (fp_lib_table
-  (lib (name keyboard_parts)(type KiCad)(uri "$(KIPRJMOD)/keyboard_parts.pretty")(options "")(descr ""))
 )
