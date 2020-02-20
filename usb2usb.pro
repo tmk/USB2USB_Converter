@@ -1,4 +1,4 @@
-update=Fri 06 Sep 2019 12:14:29 JST
+update=Thu 20 Feb 2020 16:38:56 JST
 version=1
 last_client=kicad
 [cvpcb]
@@ -59,7 +59,7 @@ OthersTextUpright=1
 SolderMaskClearance=0.075
 SolderMaskMinWidth=0.075
 SolderPasteClearance=-0.03
-SolderPasteRatio=-0.08
+SolderPasteRatio=-0.03
 [pcbnew/Netclasses]
 [pcbnew/Netclasses/1]
 Name=Min
